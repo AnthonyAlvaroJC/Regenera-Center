@@ -42,7 +42,7 @@ export default function Services() {
         },
 
         {
-          src: "/img/BIOFOTOTERAPIA.png",
+          src: "/img/BOTFOTOTERAPIA.png",
           subtitle: "BIOFOTOTERAPIA",
           content:
             "Este tratamiento utiliza tecnología de luz LED para regenerar la piel, combatir manchas, mejorar cicatrices de acné y estimular la producción de colágeno. Es indoloro, no invasivo y apto para todo tipo de pieles.",
